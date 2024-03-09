@@ -18,7 +18,7 @@
     </intent>
     </queries>
     <application
-        android:label="Amber Game"
+        android:label="Una Game Ph"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
