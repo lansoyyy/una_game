@@ -48,7 +48,7 @@ class HomeScreen extends StatelessWidget {
                       color: Colors.white,
                     ),
                     label: const Text(
-                      'DOWNLOAD',
+                      'Click here to play',
                       style: TextStyle(
                         color: Colors.white,
                       ),
